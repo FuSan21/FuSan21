@@ -13,7 +13,7 @@
 
 - 🧑‍💻 Interested in **Competitive Programing**
 
-- 📫 How to reach me ![Screenshot 2021-12-01 010353](https://user-images.githubusercontent.com/35169687/144111721-3e821252-34e8-4eac-be2a-9ea6bb4f91cb.png)
+- <div><span style="vertical-align: middle;">📫 How to reach me</span><img src="https://user-images.githubusercontent.com/35169687/144111721-3e821252-34e8-4eac-be2a-9ea6bb4f91cb.png" style="vertical-align: middle;" width="300px"/></div>
 
 - ⚡ Fun fact about me **My life.**
 
