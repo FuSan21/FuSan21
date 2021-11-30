@@ -31,7 +31,9 @@
 <br/>
 
 <p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FuSan21&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    <a href="https://github.com/FuSan21/ github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FuSan21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
 <br />
