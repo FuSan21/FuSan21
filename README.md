@@ -13,7 +13,7 @@
 
 - 🧑‍💻 Interested in **Competitive Programing**
 
-- <div><span style="vertical-align: middle;">📫 How to reach me</span><img src="https://user-images.githubusercontent.com/35169687/144111721-3e821252-34e8-4eac-be2a-9ea6bb4f91cb.png" style="vertical-align: middle;" width="300px"/></div>
+- <div><span style="vertical-align: middle;">📫 How to reach me</span><a href="#"><img src="https://user-images.githubusercontent.com/35169687/144111721-3e821252-34e8-4eac-be2a-9ea6bb4f91cb.png" style="vertical-align: middle;" width="300px"/></a></div>
 
 - ⚡ Fun fact about me **My life.**
 
@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://github.com/FuSan21">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FuSan21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 FuSan21's streak" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FuSan21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
