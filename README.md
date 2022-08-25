@@ -32,25 +32,24 @@
 
 <p align="center">
     <a href="https://github.com/FuSan21">
-        <img title="🔥 FuSan21's streak" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FuSan21&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 FuSan21's streak" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com?user=FuSan21&theme=gruvbox&hide_border=true"/>
     </a>
 </p>
 
 <br />
 
 <h3 align="center">📉 GitHub Stats 📈</h3>
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=FuSan21&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuSan21&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
-   </table>
+
+<br/>
+<p align="left">
+  <a href="https://github.com/FuSan21/FuSan21">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FuSan21&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FuSan21&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
+<br>
+
+[![FuSan21' Activity Graph](https://activity-graph.herokuapp.com/graph?username=FuSan21&custom_title=FuSan21's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/FuSan21/FuSan21)
 
 <br/>
 
