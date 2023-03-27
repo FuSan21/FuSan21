@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **A e-commerce project for university**
+- 🔭 I’m currently working on **Karaoke Android app project for university**
 
-- 🌱 I’m currently learning **CPP, PHP**
+- 🌱 I’m currently learning **Kotlin, Java**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
