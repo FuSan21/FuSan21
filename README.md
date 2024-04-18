@@ -49,7 +49,7 @@
 </p>
 <br>
 
-[![FuSan21' Activity Graph](https://activity-graph.herokuapp.com/graph?username=FuSan21&custom_title=FuSan21's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/FuSan21/FuSan21)
+[![FuSan21' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FuSan21&custom_title=FuSan21's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/FuSan21/FuSan21)
 
 <br/>
 
