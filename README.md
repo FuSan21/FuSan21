@@ -1,19 +1,19 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/bVQTPb4.png" height="175px"/></a>
+<p align="center"><a href="#"><img width="300" height="auto" src="https://i.imgur.com/bVQTPb4.png" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fuad</h1>
 <h3 align="center">I'm a student of Computer Science & Engineering at Brac University and a Casual Gamer.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Karaoke Android app project for university**
+- 🔭 I’m currently working at **All Generation Tech** as an **Associate Software Engineer**
 
-- 🌱 I’m currently learning **Kotlin, Java**
+- 🌱 I’m currently learning **Next.js, React 14**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🧑‍💻 Interested in **Competitive Programing**
+- 🧑‍💻 Interested in **Native/Web Apps development**
 
-- <div><span style="vertical-align: middle;">📫 How to reach me</span><a href="#"><img src="https://user-images.githubusercontent.com/35169687/144111721-3e821252-34e8-4eac-be2a-9ea6bb4f91cb.png" style="vertical-align: middle;" width="300px"/></a></div>
+- 📫 How to reach me <picture><img align="center" height="30" src="https://github.com/user-attachments/assets/acc05d46-dcd0-4905-878a-c15c0632a8f2"></picture>
 
 - ⚡ Fun fact about me **My life.**
 
@@ -30,22 +30,24 @@
 
 <br/>
 
+<h3 align="center">📉 GitHub Stats 📈</h3>
+
+<br />
+
 <p align="center">
     <a href="https://github.com/FuSan21">
         <img title="🔥 FuSan21's streak" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com?user=FuSan21&theme=gruvbox&hide_border=true"/>
     </a>
 </p>
 
-<br />
-
-<h3 align="center">📉 GitHub Stats 📈</h3>
-
 <br/>
-<p align="left">
-  <a href="https://github.com/FuSan21/FuSan21">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FuSan21&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=FuSan21&theme=gruvbox&hide_border=true" />
-  </a>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Devorein :: Profile Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FuSan21&theme=gruvbox&show_icons=true&card_width=320" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img alt="Devorein :: Top Langs]" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FuSan21&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
+    </a>
 </p>
 <br>
 
