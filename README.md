@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact about me **My life.**
 
+- 📜 Portfolio: <a href="https://www.fusan.live" target="_blank">fusan.live</a>
+
 ## 🚀 Languages and Tools
 <h3>Frameworks</h3>
 <p align="left"> 
