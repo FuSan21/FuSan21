@@ -17,66 +17,66 @@
 
 - ⚡ Fun fact about me **My life.**
 
-- 📜 Portfolio: <a href="https://www.fusan.live" target="_blank">fusan.live</a>
+- 📜 Portfolio: <a href="https://www.fusan.me" target="_blank">fusan.me</a>
 
 ## 🚀 Languages and Tools
 <h3>Frameworks</h3>
 <p align="left"> 
-    <a href="https://laravel.com" target="_blank"> <img src="https://www.fusan.live/skills/laravel.svg" alt="Laravel" title="Laravel" width="48" height="48"/></a>
-    <a href="https://nextjs.org" target="_blank"> <img src="https://www.fusan.live/skills/next.png" alt="Next.js" title="Next.js" width="48" height="48"/></a>
-    <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://www.fusan.live/skills/fastapi.svg" alt="FastAPI" title="FastAPI" width="48" height="48"/></a>
-    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://www.fusan.live/skills/django.png" alt="Django" title="Django" width="48" height="48"/></a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://www.fusan.live/skills/node.png" alt="Node.js" title="Node.js" width="48" height="48"/></a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://www.fusan.live/skills/express.png" alt="Express.js" title="Express.js" width="48" height="48"/></a>
-    <a href="https://reactjs.org" target="_blank"> <img src="https://www.fusan.live/skills/react.png" alt="React" title="React" width="48" height="48"/></a>
+    <a href="https://laravel.com" target="_blank"> <img src="https://www.fusan.me/skills/laravel.svg" alt="Laravel" title="Laravel" width="48" height="48"/></a>
+    <a href="https://nextjs.org" target="_blank"> <img src="https://www.fusan.me/skills/next.png" alt="Next.js" title="Next.js" width="48" height="48"/></a>
+    <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://www.fusan.me/skills/fastapi.svg" alt="FastAPI" title="FastAPI" width="48" height="48"/></a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://www.fusan.me/skills/django.png" alt="Django" title="Django" width="48" height="48"/></a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://www.fusan.me/skills/node.png" alt="Node.js" title="Node.js" width="48" height="48"/></a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://www.fusan.me/skills/express.png" alt="Express.js" title="Express.js" width="48" height="48"/></a>
+    <a href="https://reactjs.org" target="_blank"> <img src="https://www.fusan.me/skills/react.png" alt="React" title="React" width="48" height="48"/></a>
 </p>
 
 <h3>Languages</h3>
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://www.fusan.live/skills/python.png" alt="Python" title="Python" width="48" height="48"/></a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://www.fusan.live/skills/java.png" alt="Java" title="Java" width="48" height="48"/></a>
-    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.fusan.live/skills/kotlin.png" alt="Kotlin" title="Kotlin" width="48" height="48"/></a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://www.fusan.live/skills/php.png" alt="PHP" title="PHP" width="48" height="48"/></a>
-    <a href="https://isocpp.org" target="_blank"> <img src="https://www.fusan.live/skills/cpp.png" alt="C++" title="C++" width="48" height="48"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.fusan.live/skills/js.png" alt="JavaScript" title="JavaScript" width="48" height="48"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.fusan.live/skills/ts.png" alt="TypeScript" title="TypeScript" width="48" height="48"/></a>
-    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://www.fusan.live/skills/sql.png" alt="SQL" title="SQL" width="48" height="48"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.fusan.live/skills/bash.png" alt="Bash" title="Bash" width="48" height="48"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://www.fusan.live/skills/html.png" alt="HTML" title="HTML" width="48" height="48"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://www.fusan.live/skills/css.png" alt="CSS" title="CSS" width="48" height="48"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://www.fusan.me/skills/python.png" alt="Python" title="Python" width="48" height="48"/></a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://www.fusan.me/skills/java.png" alt="Java" title="Java" width="48" height="48"/></a>
+    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.fusan.me/skills/kotlin.png" alt="Kotlin" title="Kotlin" width="48" height="48"/></a>
+    <a href="https://www.php.net" target="_blank"> <img src="https://www.fusan.me/skills/php.png" alt="PHP" title="PHP" width="48" height="48"/></a>
+    <a href="https://isocpp.org" target="_blank"> <img src="https://www.fusan.me/skills/cpp.png" alt="C++" title="C++" width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.fusan.me/skills/js.png" alt="JavaScript" title="JavaScript" width="48" height="48"/></a>
+    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.fusan.me/skills/ts.png" alt="TypeScript" title="TypeScript" width="48" height="48"/></a>
+    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://www.fusan.me/skills/sql.png" alt="SQL" title="SQL" width="48" height="48"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.fusan.me/skills/bash.png" alt="Bash" title="Bash" width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://www.fusan.me/skills/html.png" alt="HTML" title="HTML" width="48" height="48"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://www.fusan.me/skills/css.png" alt="CSS" title="CSS" width="48" height="48"/></a>
 </p>
 
 <h3>Library</h3>
 <p align="left"> 
-    <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.fusan.live/skills/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48"/></a>
-    <a href="https://mui.com" target="_blank"> <img src="https://www.fusan.live/skills/mui.png" alt="Material-UI" title="Material-UI" width="48" height="48"/></a>
-    <a href="https://flowbite.com" target="_blank"> <img src="https://www.fusan.live/skills/flowbite.png" alt="Flowbite" title="Flowbite" width="48" height="48"/></a>
-    <a href="https://threejs.org" target="_blank"> <img src="https://www.fusan.live/skills/three.svg" alt="Three.js" title="Three.js" width="48" height="48"/></a>
-    <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://www.fusan.live/skills/framer.png" alt="Framer Motion" title="Framer Motion" width="48" height="48"/></a>
+    <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.fusan.me/skills/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48"/></a>
+    <a href="https://mui.com" target="_blank"> <img src="https://www.fusan.me/skills/mui.png" alt="Material-UI" title="Material-UI" width="48" height="48"/></a>
+    <a href="https://flowbite.com" target="_blank"> <img src="https://www.fusan.me/skills/flowbite.png" alt="Flowbite" title="Flowbite" width="48" height="48"/></a>
+    <a href="https://threejs.org" target="_blank"> <img src="https://www.fusan.me/skills/three.svg" alt="Three.js" title="Three.js" width="48" height="48"/></a>
+    <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://www.fusan.me/skills/framer.png" alt="Framer Motion" title="Framer Motion" width="48" height="48"/></a>
 </p>
 
 <h3>Database</h3>
 <p align="left"> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.fusan.live/skills/mysql.png" alt="MySQL" title="MySQL" width="48" height="48"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.fusan.live/skills/mongodb.png" alt="MongoDB" title="MongoDB" width="48" height="48"/></a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.fusan.live/skills/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/></a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.fusan.live/skills/firebase.png" alt="Firebase" title="Firebase" width="48" height="48"/></a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.fusan.me/skills/mysql.png" alt="MySQL" title="MySQL" width="48" height="48"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.fusan.me/skills/mongodb.png" alt="MongoDB" title="MongoDB" width="48" height="48"/></a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.fusan.me/skills/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"/></a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.fusan.me/skills/firebase.png" alt="Firebase" title="Firebase" width="48" height="48"/></a>
 </p>
 
 <h3>Technology</h3>
 <p align="left"> 
-    <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://www.fusan.live/skills/cloudflare.png" alt="Cloudflare" title="Cloudflare" width="48" height="48"/></a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.fusan.live/skills/aws.svg" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48"/></a>
-    <a href="https://vercel.com/" target="_blank"> <img src="https://www.fusan.live/skills/vercel.png" alt="Vercel" title="Vercel" width="48" height="48"/></a>
-    <a href="https://supabase.com/" target="_blank"> <img src="https://www.fusan.live/skills/supabase.png" alt="Supabase" title="Supabase" width="48" height="48"/></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.fusan.live/skills/git.png" alt="Git" title="Git" width="48" height="48"/></a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.fusan.live/skills/linux.png" alt="Linux" title="Linux" width="48" height="48"/></a>
+    <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://www.fusan.me/skills/cloudflare.png" alt="Cloudflare" title="Cloudflare" width="48" height="48"/></a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.fusan.me/skills/aws.svg" alt="Amazon Web Services" title="Amazon Web Services" width="48" height="48"/></a>
+    <a href="https://vercel.com/" target="_blank"> <img src="https://www.fusan.me/skills/vercel.png" alt="Vercel" title="Vercel" width="48" height="48"/></a>
+    <a href="https://supabase.com/" target="_blank"> <img src="https://www.fusan.me/skills/supabase.png" alt="Supabase" title="Supabase" width="48" height="48"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.fusan.me/skills/git.png" alt="Git" title="Git" width="48" height="48"/></a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.fusan.me/skills/linux.png" alt="Linux" title="Linux" width="48" height="48"/></a>
 </p>
 
 <h3>DevOps</h3>
 <p align="left"> 
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.fusan.live/skills/docker.png" alt="Docker" title="Docker" width="48" height="48"/></a>
-    <a href="https://github.com/features/actions" target="_blank"> <img src="https://www.fusan.live/skills/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"/></a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.fusan.me/skills/docker.png" alt="Docker" title="Docker" width="48" height="48"/></a>
+    <a href="https://github.com/features/actions" target="_blank"> <img src="https://www.fusan.me/skills/github-actions.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48"/></a>
 </p>
 <br/>
 
