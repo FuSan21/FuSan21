@@ -9,9 +9,9 @@
 
 - 🛠️ Recently built **[Unqlock](https://github.com/FuSan21/Unqlock)** (Chrome & Firefox extension), **Macro Deck** plugins for Teams, Zoom and Google Meet (C# / .NET), and **[Headless Block Styles](https://wordpress.org/plugins/headless-block-styles/)** (WordPress plugin)
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Contributing to open source, with merged PRs in **[openwrt/luci](https://github.com/openwrt/luci/pulls?q=is%3Apr+author%3AFuSan21)** and **[luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon/pulls?q=is%3Apr+author%3AFuSan21)**, and always open to collaborating on more
 
-- 🧑‍💻 Interested in **Native/Web Apps development**
+- 🧑‍💻 Interested in **web apps**, **browser extensions**, **AI agents**, and **self-hosting** my homelab (Dokploy, OpenWrt)
 
 - 📫 How to reach me <picture><img align="center" height="30" src="https://github.com/user-attachments/assets/acc05d46-dcd0-4905-878a-c15c0632a8f2"></picture>
 
@@ -77,6 +77,15 @@
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.fusan.me/skills/jira.png" alt="Jira" title="Jira" width="48" height="48"/></a>
 </p>
 
+<h3>AI & Agents</h3>
+<p align="left"> 
+    <a href="https://www.langchain.com/langgraph" target="_blank"> <img src="https://www.fusan.me/skills/langchain.png" alt="LangChain & LangGraph" title="LangChain & LangGraph" width="48" height="48"/></a>
+    <a href="https://livekit.io/" target="_blank"> <img src="https://www.fusan.me/skills/livekit.png" alt="LiveKit" title="LiveKit" width="48" height="48"/></a>
+    <a href="https://openrouter.ai/" target="_blank"> <img src="https://www.fusan.me/skills/openrouter.svg" alt="OpenRouter" title="OpenRouter" width="48" height="48"/></a>
+    <a href="https://deepgram.com/" target="_blank"> <img src="https://www.fusan.me/skills/deepgram.png" alt="Deepgram" title="Deepgram" width="48" height="48"/></a>
+    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://www.fusan.me/skills/opentelemetry.svg" alt="OpenTelemetry" title="OpenTelemetry" width="48" height="48"/></a>
+</p>
+
 <h3>Browser Extensions</h3>
 <p align="left"> 
     <a href="https://developer.chrome.com/docs/extensions" target="_blank"> <img src="https://www.fusan.me/skills/chrome.svg" alt="Chrome Extensions" title="Chrome Extensions" width="48" height="48"/></a>
@@ -116,22 +125,31 @@
 
 <br/>
 
+## 🌍 Open Source Contributions
+
+<p align="center">
+    <a href="https://github.com/pulls?q=is%3Apr+author%3AFuSan21+is%3Apublic+-user%3AFuSan21">
+        <img alt="FuSan21's open source contributions" src="https://stats.fusan.me/oss?username=FuSan21&theme=gruvbox&hide_border=true&limit=6"/>
+    </a>
+</p>
+
 <br/>
 
 ## Connect with me:
 
 <p align="left">
-
-<a href = "https://www.facebook.com/fuad.hasan21"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/FuSan2102"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/fusan"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+    <a href="https://www.linkedin.com/in/fusan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://x.com/FuSan2102"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/867995866219286618"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://www.facebook.com/fuad.hasan21"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="mailto:fuad.antor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.fusan.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2A0E61?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=FuSan21">
+<a href="https://github.com/FuSan21">
+    <img alt="Profile views" src="https://stats.fusan.me/views?username=FuSan21">
 </a>
 <a href="https://github.com/FuSan21?tab=followers"><img src="https://img.shields.io/github/followers/FuSan21?label=Followers&style=social" alt="GitHub Badge"></a>
 
