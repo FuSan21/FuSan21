@@ -1,13 +1,13 @@
 <p align="center"><a href="#"><img width="300" height="auto" src="https://i.imgur.com/bVQTPb4.png" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fuad</h1>
-<h3 align="center">I'm a student of Computer Science & Engineering at Brac University and a Casual Gamer.</h3>
+<h3 align="center">Application Engineer & Team Lead at All Generation Tech, Computer Science & Engineering graduate of Brac University, and a Casual Gamer.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **All Generation Tech** as an **Associate Software Engineer**
+- 🔭 I’m currently working at **All Generation Tech** as an **Application Engineer** and **Team Lead** for a team of 7 engineers
 
-- 🌱 I’m currently learning **Next.js, React 14**
+- 🛠️ Recently built **[Unqlock](https://github.com/FuSan21/Unqlock)** (Chrome & Firefox extension), **Macro Deck** plugins for Teams, Zoom and Google Meet (C# / .NET), and **[Headless Block Styles](https://wordpress.org/plugins/headless-block-styles/)** (WordPress plugin)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -29,6 +29,7 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://www.fusan.me/skills/node.png" alt="Node.js" title="Node.js" width="48" height="48"/></a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://www.fusan.me/skills/express.png" alt="Express.js" title="Express.js" width="48" height="48"/></a>
     <a href="https://reactjs.org" target="_blank"> <img src="https://www.fusan.me/skills/react.png" alt="React" title="React" width="48" height="48"/></a>
+    <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://www.fusan.me/skills/dotnet.svg" alt=".NET" title=".NET" width="48" height="48"/></a>
 </p>
 
 <h3>Languages</h3>
@@ -38,6 +39,7 @@
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.fusan.me/skills/kotlin.png" alt="Kotlin" title="Kotlin" width="48" height="48"/></a>
     <a href="https://www.php.net" target="_blank"> <img src="https://www.fusan.me/skills/php.png" alt="PHP" title="PHP" width="48" height="48"/></a>
     <a href="https://isocpp.org" target="_blank"> <img src="https://www.fusan.me/skills/cpp.png" alt="C++" title="C++" width="48" height="48"/></a>
+    <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"> <img src="https://www.fusan.me/skills/csharp.svg" alt="C#" title="C#" width="48" height="48"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.fusan.me/skills/js.png" alt="JavaScript" title="JavaScript" width="48" height="48"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://www.fusan.me/skills/ts.png" alt="TypeScript" title="TypeScript" width="48" height="48"/></a>
     <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://www.fusan.me/skills/sql.png" alt="SQL" title="SQL" width="48" height="48"/></a>
@@ -71,6 +73,15 @@
     <a href="https://supabase.com/" target="_blank"> <img src="https://www.fusan.me/skills/supabase.png" alt="Supabase" title="Supabase" width="48" height="48"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.fusan.me/skills/git.png" alt="Git" title="Git" width="48" height="48"/></a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.fusan.me/skills/linux.png" alt="Linux" title="Linux" width="48" height="48"/></a>
+    <a href="https://wordpress.org/" target="_blank"> <img src="https://www.fusan.me/skills/wordpress.png" alt="WordPress" title="WordPress" width="48" height="48"/></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://www.fusan.me/skills/jira.png" alt="Jira" title="Jira" width="48" height="48"/></a>
+</p>
+
+<h3>Browser Extensions</h3>
+<p align="left"> 
+    <a href="https://developer.chrome.com/docs/extensions" target="_blank"> <img src="https://www.fusan.me/skills/chrome.svg" alt="Chrome Extensions" title="Chrome Extensions" width="48" height="48"/></a>
+    <a href="https://extensionworkshop.com/" target="_blank"> <img src="https://www.fusan.me/skills/firefox.svg" alt="Firefox Add-ons" title="Firefox Add-ons" width="48" height="48"/></a>
+    <a href="https://www.tampermonkey.net/" target="_blank"> <img src="https://www.fusan.me/skills/userscript.png" alt="Userscripts" title="Userscripts" width="48" height="48"/></a>
 </p>
 
 <h3>DevOps</h3>
@@ -86,22 +97,22 @@
 
 <p align="center">
     <a href="https://github.com/FuSan21">
-        <img title="🔥 FuSan21's streak" alt="FuSan21's streak" src="https://github-readme-streak-stats.herokuapp.com?user=FuSan21&theme=gruvbox&hide_border=true"/>
+        <img title="🔥 FuSan21's streak" alt="FuSan21's streak" src="https://stats.fusan.me/streak?user=FuSan21&theme=gruvbox&hide_border=true"/>
     </a>
 </p>
 
 <br/>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="FuSan21's Profile Stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FuSan21&theme=gruvbox&show_icons=true&card_width=320" />
+    <a href="https://github.com/FuSan21">
+      <img alt="FuSan21's Profile Stats" height=200 align="center" src="https://stats.fusan.me/api?username=FuSan21&theme=gruvbox&show_icons=true&card_width=320" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img alt="FuSan21's Top Langs]" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FuSan21&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
+    <a href="https://github.com/FuSan21?tab=repositories">
+      <img alt="FuSan21's Top Langs" height=200 align="center" src="https://stats.fusan.me/api/top-langs?username=FuSan21&layout=compact&theme=gruvbox&langs_count=8&card_width=320" />
     </a>
 </p>
 <br>
 
-[![FuSan21' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FuSan21&custom_title=FuSan21's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/FuSan21/FuSan21)
+[![FuSan21' Activity Graph](https://stats.fusan.me/graph?username=FuSan21&custom_title=FuSan21's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/FuSan21/FuSan21)
 
 <br/>
 
