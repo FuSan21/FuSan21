@@ -129,7 +129,7 @@
 
 <p align="center">
     <a href="https://github.com/pulls?q=is%3Apr+author%3AFuSan21+is%3Apublic+-user%3AFuSan21">
-        <img alt="FuSan21's open source contributions" src="https://stats.fusan.me/oss?username=FuSan21&theme=gruvbox&hide_border=true&limit=6"/>
+        <img alt="FuSan21's open source contributions" src="https://stats.fusan.me/oss?username=FuSan21&theme=gruvbox&hide_border=true&limit=6&card_width=990"/>
     </a>
 </p>
 
